@@ -7,6 +7,13 @@
 .categories-container-3{
     background-image: linear-gradient(rgb(122, 122, 161), rgb(169, 169, 230));
 }
-footer .container{
+.subscribe .container{
     background-color: #fce8ef;
+}
+footer{
+    background-color: rgb(11, 11, 32);
+    color: white;
+}
+.footer-icons a{
+    color: #fce8ef;
 }
